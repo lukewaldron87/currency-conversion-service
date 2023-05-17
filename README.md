@@ -1,6 +1,7 @@
 # currency-conversion-service
 in28minutes microservice currency-conversion-service
 
+This service calls [currency-exchange-service](https://github.com/lukewaldron87/currency-exchange-service)
 
 in28minutes microservice repos:
 - [spring-cloud-config-server](https://github.com/lukewaldron87/spring-cloud-config-server)
